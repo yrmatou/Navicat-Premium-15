@@ -1,3 +1,5 @@
+### 下载
+* [Navicat15 官网下载地址](http://www.navicat.com.cn/download/navicat-premium)
 ### 简单的使用说明
 
 #### 注意事项 

@@ -1,5 +1,7 @@
 ### 下载
-* [Navicat15 官网下载地址](http://www.navicat.com.cn/download/navicat-premium)
+* [Navicat15 官网下载地址](http://www.navicat.com.cn/download/navicat-premium)  
+* 注册机在此项目中下载到本地即可  
+* [XAMPP 官网下载](https://sourceforge.net/projects/xampp/files/)
 ### 简单的使用说明
 
 #### 注意事项 

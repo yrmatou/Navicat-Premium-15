@@ -1,8 +1,17 @@
 ### 简单的使用说明
 
-**注意事项**
-* 先打开注册机 patch(patch的路径就是你安装navicat根目录下navicat.exe文件选中点击path即可)完出现navicat.exe -x64 -> cracked 再继续选择下面的操作
-* ！！！先打开注册机patch成功后再打开navicat，切记切记切记！！！
+#### 注意事项 
+* 激活的时候断网！断网！断网！
+* 先打开注册机 patch(patch的路径就是你安装navicat根目录下navicat.exe文件选中点击path即可)完出现navicat.exe -x64 -> cracked 再继续选择下面的操作  
+* ！！！先打开注册机patch成功后再打开navicat，切记切记切记！！！  
+* 假如没安装成功检查是否以前有安装过，清理安装记录，清理注册表之类的
+***
+#### ！！！假如出这样的错大致原因  
+
+![image](https://user-images.githubusercontent.com/21699695/117238464-84ea3600-ae5f-11eb-85a7-1dc648bc1bd3.png)
+
+* 注册机没patch完就打开了Navicat
+* 先退出所有杀毒软件，再打开注册机
 
 ### 简单步骤
 
@@ -38,7 +47,5 @@
 
 ![image](https://user-images.githubusercontent.com/21699695/117238063-ce865100-ae5e-11eb-83d8-870e837517d8.png)  
 
-> 恭喜，激活成功啦！！如果经济允许，还是希望可以支持正版！！！
+> 恭喜，激活成功啦！！如果经济允许，还是希望可以支持正版！！！  
 > 附上购买地址http://www.navicat.com.cn/download/navicat-premium
-
-> 

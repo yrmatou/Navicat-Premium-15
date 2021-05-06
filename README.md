@@ -2,6 +2,7 @@
 
 **注意事项**
 * 先打开注册机 patch(patch的路径就是你安装navicat根目录下navicat.exe文件选中点击path即可)完出现navicat.exe -x64 -> cracked 再继续选择下面的操作
+* ！！！先打开注册机patch成功后再打开navicat，切记切记切记！！！
 
 ### 简单步骤
 

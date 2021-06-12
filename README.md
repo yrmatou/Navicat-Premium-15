@@ -51,8 +51,10 @@
 * 8，点击激活页面的激活弹出（说明激活成功）  
 
 ![image](https://user-images.githubusercontent.com/21699695/117238063-ce865100-ae5e-11eb-83d8-870e837517d8.png)  
-辛苦！辛苦！喝杯水！哈哈哈
-![image](https://user-images.githubusercontent.com/21699695/121778189-6f87ca80-cbc8-11eb-8020-7c4b7b2ea7e0.png)
+辛苦！辛苦！喝口水！哈哈哈
+<div align="left">
+	<img src="https://user-images.githubusercontent.com/21699695/121778277-d6a57f00-cbc8-11eb-9b28-13462b3fde2f.png" alt="Editor" width="200">
+</div>
 
 > 恭喜，激活成功啦！！如果经济允许，还是希望可以支持正版！！！  
 > 附上购买地址http://www.navicat.com.cn/download/navicat-premium

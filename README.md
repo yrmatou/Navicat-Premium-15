@@ -34,11 +34,15 @@
 
 * 4，打开Navicat Premium 15，点击注册  
 
-![image](https://user-images.githubusercontent.com/21699695/117237941-8cf5a600-ae5e-11eb-82f4-4b7c168ec17b.png)  
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/117237941-8cf5a600-ae5e-11eb-82f4-4b7c168ec17b.png" alt="Editor" width="500">
+</div>
 
 * 5，粘贴秘钥，然后点击激活按钮  
 
-![image](https://user-images.githubusercontent.com/21699695/117237989-abf43800-ae5e-11eb-8d73-23c0f01a4720.png)  
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/117237989-abf43800-ae5e-11eb-8d73-23c0f01a4720.png" alt="Editor" width="500">
+</div>
 
 * 6，在弹出的界面选择手动激活  
 

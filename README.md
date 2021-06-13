@@ -59,7 +59,7 @@
 * 8，点击激活页面的激活弹出（说明激活成功）  
   
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/21699695/117238063-ce865100-ae5e-11eb-83d8-870e837517d8.png" alt="Editor" width="500">
+  <img src="https://user-images.githubusercontent.com/21699695/117238063-ce865100-ae5e-11eb-83d8-870e837517d8.png" alt="Editor" width="200">
 </div>
 
 **辛苦！辛苦！喝口水！哈哈哈**

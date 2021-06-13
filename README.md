@@ -42,15 +42,21 @@
 
 * 6，在弹出的界面选择手动激活  
 
-![image](https://user-images.githubusercontent.com/21699695/117238026-b6163680-ae5e-11eb-8ff5-38661aa402aa.png)  
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/117238026-b6163680-ae5e-11eb-8ff5-38661aa402aa.png" alt="Editor" width="500">
+</div>
 
 * 7，将请求码粘贴到注册机Request Code框中（完整过程看图） 
 
-![image](https://user-images.githubusercontent.com/21699695/117238049-c7f7d980-ae5e-11eb-80a5-d5545ab6a4d4.png)  
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/117238049-c7f7d980-ae5e-11eb-80a5-d5545ab6a4d4.png" alt="Editor" width="500">
+</div>
 
 * 8，点击激活页面的激活弹出（说明激活成功）  
-
-![image](https://user-images.githubusercontent.com/21699695/117238063-ce865100-ae5e-11eb-83d8-870e837517d8.png)  
+  
+<div align="left">
+  <img src="https://user-images.githubusercontent.com/21699695/117238063-ce865100-ae5e-11eb-83d8-870e837517d8.png" alt="Editor" width="500">
+</div>
 
 **辛苦！辛苦！喝口水！哈哈哈**
 <div align="left">

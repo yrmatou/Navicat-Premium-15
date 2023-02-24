@@ -65,7 +65,7 @@
 **强烈推荐福利！！！每天免费领取饿了么，美团外卖红包（买菜，点美食都可以）**
 
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/21699695/140758752-182a4db2-ec40-4154-a090-4aba56583862.jpg" alt="Editor" width="200">
+  <img src="https://user-images.githubusercontent.com/21699695/221159459-81384c4b-67a0-4616-b885-515965989fa4.png" alt="Editor" width="600">
 </div>
 
 **互相学习交流**

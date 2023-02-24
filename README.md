@@ -1,6 +1,9 @@
 ### 下载
 * [Navicat15 官网下载地址](http://www.navicat.com.cn/download/navicat-premium)  
-* 注册机在此项目中下载到本地即可  
+> 选择复制链接
+ 会得到 https://download.navicat.com.cn/download/navicat150_premium_cs_x64.exe
+ 修改其中的 navicat160_premium_cs_x64.exe 把 160 改成 150 就是下载 15 版本
+ 同理 140 对应 14 版本
 * [XAMPP 官网下载](https://sourceforge.net/projects/xampp/files/)
 ### 简单的使用说明
 
